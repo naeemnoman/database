@@ -6,7 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="10dp"
-    android:background="#88D0F0"
     tools:context=".MainActivity">
 
     <TextView
@@ -15,7 +14,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:padding="10dp"
-        android:background="#FF9800"
         android:text="Student Database"
         android:textColor="@color/black"
         android:textSize="24sp"

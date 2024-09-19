@@ -5,6 +5,11 @@ plugins {
 }
 
 android {
+
+    buildFeatures {
+        viewBinding = true
+    }
+
     namespace = "com.example.database"
     compileSdk = 34
 
